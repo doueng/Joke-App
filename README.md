@@ -1,4 +1,4 @@
-# Joke-App
+# Joke App
 
 This is a simple app that tells a joke when you press the button.
 
